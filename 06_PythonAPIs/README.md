@@ -17,9 +17,9 @@ The scripts acocomplishes the following:
   * Save both a CSV of all data retrieved and png images for each scatter plot.<br>
 
 ## Three observable trends based on the data
-  * Not surprisingly, temperate increases as you get closer to the equator. However, the temperate peaks at around 20 degrees latitude and not at the equator.
-  * Cloudiness and humdity don't show strong correltions to latitude. However, it looks like humidity decreases the most at 2 separate troughs, 20 degrees latitude and -20 degrees.
-  * Wind speed appears to increase slightly the further away you go from the equator. For a definitive conclusion, I would need to make another variable to analyze it.\
+  1. Not surprisingly, temperate increases as you get closer to the equator. However, the temperate peaks at around 20 degrees latitude and not at the equator.
+  1. Cloudiness and humdity don't show strong correltions to latitude. However, it looks like humidity decreases the most at 2 separate troughs, 20 degrees latitude and -20 degrees.
+  1. Wind speed appears to increase slightly the further away you go from the equator. For a definitive conclusion, I would need to make another variable to analyze it.\
  \
   ![Latitude_MaxTemp](output_images/Latitude_vs_MaxTemperature.png)<br>
   ![Latitude_Humidity](output_images/Latitude_vs_Humidity.png)<br>
