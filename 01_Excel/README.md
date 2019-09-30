@@ -17,7 +17,7 @@ Entertainment (music, theater, film & videos) projects are the most successful b
 The plays sub-category has by far the most number of projects. It is also quite successful with roughly 60% successful. Although less popular, rock, documentary and hardware projects have always been successful. On the negative side for projects with more than 100 outcomes, the sub-categories of animation, food trucks, video games and web always seem to fail.\
 \
 ![subcategory](Images/README/SubCategory.png)
-\
+
 - Monthly status <br>
 From 2009 to 2017, projects started in May had the best chance of a successful outcome. February and April were also statistically successful months to start a project. From May to Sept, the success rate gradually declined. December was by far the least successful month being the only month with more failures than successes.<br>
 \
