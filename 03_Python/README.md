@@ -8,9 +8,9 @@ Python script for analyzing the financial records of a company. Utilize a set of
   * The average of the changes in "Profit/Losses" over the entire period
   * The greatest increase in profits (date and amount) over the entire period
   * The greatest decrease in losses (date and amount) over the entire period
-- In addition, the final script both print the analysis to the terminal and export a text file with the results.
-<br>
-PyBank Result Screenshot<br>
+- In addition, the final script both print the analysis to the terminal and export a text file with the results.\
+
+PyBank Result Screenshot\
 ![PyBank_Screenshot](Images/README/PyBank_Result_Screenshot.png)
 
 ## PyPoll
@@ -21,8 +21,8 @@ PyBank Result Screenshot<br>
   * The percentage of votes each candidate won
   * The total number of votes each candidate won
   * The winner of the election based on popular vote.
-- In addition, the final script both print the analysis to the terminal and export a text file with the results.
-<br>
-PyPoll Result Screenshot<br>
+- In addition, the final script both print the analysis to the terminal and export a text file with the results.\
+
+PyPoll Result Screenshot\
 ![PyPoll_Screenshot](Images/README/PyPoll_Result_Screenshot.png)
 

@@ -13,12 +13,12 @@ Design a Flask API based on the queries that is just developed.
 
 **Optional** - Other Recommended Analyses
   * Temperature Analysis
-  * Daily Rainfall Average<br>
-  <br>
-![DailyNormals](Images/DailyNormals.png)<br>
-![Precipitation](Images/Precipitation.png)<br>
-![TemperaturevsFrequency](Images/TemperaturevsFrequency.png)<br>
-![TripAvgTemp](Images/TripAvgTemp.png)<br>
+  * Daily Rainfall Average\
+  
+![DailyNormals](Images/DailyNormals.png)\
+![Precipitation](Images/Precipitation.png)\
+![TemperaturevsFrequency](Images/TemperaturevsFrequency.png)\
+![TripAvgTemp](Images/TripAvgTemp.png)\
 
 <!--
 ![WeatherAnalysis_1](Link later)<br>
