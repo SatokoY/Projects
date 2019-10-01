@@ -14,7 +14,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 1. Items\
   Purchases are evenly spread out among many people. The top spender only purchased 5 items(total $ 18). Also, for items, the most popular item was purchased only 12 times. 4/5 most people items are also the most profitable.
 
-\
+Code Screenshots
 ![Pandas_1](Images/README/Pandas_1.png)<br>
 ![Pandas_2](Images/README/Pandas_2.png)<br>
 ![Pandas_3](Images/README/Pandas_3.png)<br>

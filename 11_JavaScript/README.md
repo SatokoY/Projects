@@ -3,8 +3,9 @@ The website that creates a table dynamically based upon a dataset that are creat
 
 ## Level 1: Automatic Table and Date Search
   * Basic HTML web page using the UFO dataset provided in the form of an array of JavaScript objects. 
-  * Appends a table to the web page and then adds new rows of data for each UFO sighting.
+  * Appends a table to the web page and then adds new rows of data for each UFO sighting.\
 
+### Final Visualization Screenshot - Level 1
 ![JS_Level1](level_1/FinalVisualization_JS_Level1.png)
 
 ## Level 2: Multiple Search Categories
@@ -16,4 +17,5 @@ The website that creates a table dynamically based upon a dataset that are creat
   1. country
   1. shape
 
+### Final Visualization Screenshot - Level 2
 ![JS_Level2](level_2/FinalVisualization_JS_Level2.png)
