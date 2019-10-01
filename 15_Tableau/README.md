@@ -10,7 +10,7 @@ Citi Bike Data webpage(https://www.citibikenyc.com/system-data)　
 ### Final Visualization Screenshot - CitiBike Data 
 ![CitiBike_Tableau](Images/README/Tableau_CitiBike.png)
 
-### Code Screenshots - Merge CSV files
+### Code Screenshot - Merge CSV files
 ![MergeCSVfiles_Python_1](Images/README/MergeCSVfiles_Python_1.png)
 ![MergeCSVfiles_Python_2](Images/README/MergeCSVfiles_Python_2.png)
 
