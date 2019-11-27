@@ -1,4 +1,4 @@
-# MySQL Queries 
+# MySQL_Queries_Sakila
 
 ## Background
 A series of MySQL queries on the sakila schema to acquire information on the multiple tables.
